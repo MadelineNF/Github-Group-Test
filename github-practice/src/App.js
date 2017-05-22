@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
-import Header from './components/header';
+import Header from './components/Header';
 import Body from './components/Body';
 
 
